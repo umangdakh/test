@@ -1,0 +1,17 @@
+Security
+filesystem hierarchy standard
+log files
+
+We have a file with a name file1.txt in which umang has a permission of read and right, group staff has a permission of read, right, execute. Others have no permissions
+Umang - rw - 6
+group - rwx - 7
+others - NP - 0
+
+chmod 670 file1.txt
+rw-rwx---file1.txt
+
+
+sudo command 
+
+what to do if i want to goto the middle of the filr in vi
+how to know how many user are login in account or server
